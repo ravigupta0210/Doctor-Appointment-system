@@ -4,4 +4,4 @@ This sites is to going to be very useful full Heath-Care Industry . Just visit a
 Steps to render this System:-
 First register through your mail
 then login
-Then you can do several things like book an appointment , see the doctors detail , check availabilty and many more.
+Then you can do several things like book an appointment , see the doctors detail , check availability and many more.
